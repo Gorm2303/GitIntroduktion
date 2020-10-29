@@ -4,5 +4,8 @@ public class Main {
     public static void main(String[] args) {
         Game p1 = new Game();
         p1.play();
+        System.out.println("Hey hey hey");
+
+        System.out.println("New changes on main");
     }
 }
