@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hey hey hey");
 
         System.out.println("New changes on main");
+        System.out.println("Hey du der!");
     }
 }
