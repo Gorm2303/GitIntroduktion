@@ -1,4 +1,4 @@
-package worldofzuul;
+package com.company;
 
 import java.util.Set;
 import java.util.HashMap;

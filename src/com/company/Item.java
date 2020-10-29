@@ -1,4 +1,4 @@
-package worldofzuul;
+package com.company;
 
 public abstract class Item {
     private String name;

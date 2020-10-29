@@ -1,4 +1,4 @@
-package worldofzuul;
+package com.company;
 
 public class Materials extends Item {
 
