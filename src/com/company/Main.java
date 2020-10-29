@@ -10,10 +10,8 @@ public class Main {
         System.out.println("Hey du der!");
         System.out.println("save this too in wow 2");
 
-        
 
+        System.out.println("this is dudu");
 
-
-        
     }
 }
