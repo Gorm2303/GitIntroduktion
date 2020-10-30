@@ -12,6 +12,7 @@ public class Main {
 
 
         System.out.println("this is dudu");
+        System.out.println("Nu er vi i main");
 
     }
 }
