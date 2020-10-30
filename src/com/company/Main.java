@@ -14,5 +14,6 @@ public class Main {
         System.out.println("this is dudu");
         System.out.println("this is dudu");
         System.out.println("this is dudu");
+        System.out.println("This is part 2, not main");
     }
 }
